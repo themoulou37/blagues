@@ -1,0 +1,1 @@
+Un groupe de paquets TCP rentre dans un bar, le barman dit : « Attendez deux secondes, je dois fermer cette fenêtre ».
